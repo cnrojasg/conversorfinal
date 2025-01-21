@@ -5,4 +5,12 @@ que pueden no estar actualizadas.
 Para cambiar los valores, debes acceder a el script de java y 
 }actualizarlos de forma manual.
 
+
+Para un mejor uso de la app, es mejor descargar el archivo 
+Convertdivisa.java y compilar en la terminal con los siuientes comandos
+
+javac Convertdivisa.java
+java Convertdivisa
+
+
 Puedes encontrar una version online en el siguiente link
