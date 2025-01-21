@@ -1,4 +1,4 @@
-Conversor de divisas para USD, Peso Chileno y Peso Argentino
+rConversor de divisas para USD, Peso Chileno y Peso Argentino
 desarrollado con Spring boot para Java.
 El script genera los valores a partir de tasas de conversiones
 que pueden no estar actualizadas. 
@@ -13,4 +13,9 @@ javac Convertdivisa.java
 java Convertdivisa
 
 
-Puedes encontrar una version online en el siguiente link
+Puedes descargar la version final del script con 
+wget https://github.com/cnrojasg/conversorfinal/blob/divisas/Convertdivisa.java
+en la terminal
+
+Disfruta de este escript y compartelo con quien quieras, sientete libre
+de editarlo y transformarlo a tu antojo.
