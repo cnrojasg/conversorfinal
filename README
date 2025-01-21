@@ -1,0 +1,8 @@
+Conversor de divisas para USD, Peso Chileno y Peso Argentino
+desarrollado con Spring boot para Java.
+El script genera los valores a partir de tasas de conversiones
+que pueden no estar actualizadas. 
+Para cambiar los valores, debes acceder a el script de java y 
+}actualizarlos de forma manual.
+
+Puedes encontrar una version online en el siguiente link
